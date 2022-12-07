@@ -25,43 +25,43 @@ Install Ganache on your machine. You can find the link to it above. Install Meta
 
 Here we see the successful compilation of the KaseiCoin.sol file in Remix.
 
-![Kasei Coin Compiled](./screenshots/KaseiCoinContract_CompileSuccess.png)
+![Kasei Coin Compiled](Screenshots/KaseiCoinContract_CompileSuccess.png)
 
 Here we see the successful compilation of the KaseiCoinCrowdsale.sol file in Remix.
 
-![Kasei Coin Crowdsale Compiled](./screenshots/KaseiCoinCrowdsale_CompileSuccess.png)
+![Kasei Coin Crowdsale Compiled](Screenshots/KaseiCoinCrowdsale_CompileSuccess.png)
 
 Here we can see the successful compilation of the deployer contract.
 
-![Kasei Coin Deployer Contract](./screenshots/KaseiCoinDeployerContract_CompileSuccess.png)
+![Kasei Coin Deployer Contract](Screenshots/KaseiCoinDeployerContract_CompileSuccess.png)
 
 Here we see evidence of the Crowdsale Deployer deployed in Remix.
 
-![Crowdsale Deployer Deployed](./screenshots/KaseiCrowdsaleDeployer_Deployed.png)
+![Crowdsale Deployer Deployed](Screenshots/KaseiCrowdsaleDeployer_Deployed.png)
 
 Here we can see the initial balance of the Ethereum accounts in Ganache.
 
-![Ganache Initial Balance](./screenshots/Ganache_InitialBalance.png)
+![Ganache Initial Balance](Screenshots/Ganache_InitialBalance.png)
 
 Here we see the contract being deployed to Metamask.
 
-![Contract Deployed Metamask](./screenshots/ContractDeployed_Metamask.png)
+![Contract Deployed Metamask](Screenshots/ContractDeployed_Metamask.png)
 
 Evidence of ETH transaction in Ganache.
 
-![ETH transaction Ganache](./screenshots/EvidenceofEthWithdrawl.png)
+![ETH transaction Ganache](Screenshots/EvidenceofEthWithdrawl.png)
 
 Here we can see the all the contracts deployed.
 
-![All Contracts Deployed](./screenshots/AllContractsDeployed.png)
+![All Contracts Deployed](Screenshots/AllContractsDeployed.png)
 
 Here is evidence that we've sent three tokens to a wallet and there is a supply of three tokens in circulation.
 
-![Balance of 3 Total of 3](./screenshots/Balanceof3TotalSupply3.png)
+![Balance of 3 Total of 3](Screenshots/Balanceof3TotalSupply3.png)
 
 Evidence of successful crowdsale.
 
-![Crowdsale Successful](./screenshots/CrowdsaleSuccessful.png)
+![Crowdsale Successful](Screenshots/CrowdsaleSuccessful.png)
 
 
 # Application
